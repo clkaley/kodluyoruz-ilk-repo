@@ -7,6 +7,8 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
+git clone https://github.com/clkaley/kodluyoruzilkrepo.git
+
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
