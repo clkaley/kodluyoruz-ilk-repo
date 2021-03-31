@@ -26,3 +26,10 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 [MIT](https://opensource.org/licenses/MIT)
 
 
+### Prerequisites
+```
+Python 3.x.x
+TensorFlow
+Keras
+Numpy
+```
