@@ -5,8 +5,11 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 Öncelikle projeyi clonelayın.
 
 
- 
-| git clone https://github.com/clkaley/kodluyoruzilkrepo.git |
+### Prerequisites
+```
+ git clone https://github.com/clkaley/kodluyoruzilkrepo.git 
+```
+
 
 
 ## Usage
@@ -14,10 +17,13 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-''' code
+### Prerequisites
+```
 cd kodluyoruzilkrepo 
 code.
-'''
+```
+
+
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
@@ -26,10 +32,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 [MIT](https://opensource.org/licenses/MIT)
 
 
-### Prerequisites
-```
-Python 3.x.x
-TensorFlow
-Keras
-Numpy
-```
+
