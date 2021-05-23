@@ -31,7 +31,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 ###  Lıcense
 ```
-[MIT](https://opensource.org/licenses/MIT)
+[MIT] (https://opensource.org/licenses/MIT)
 ```
 
 
