@@ -6,9 +6,9 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 
 ### 
-
+```
  git clone https://github.com/clkaley/kodluyoruzilkrepo.git 
-
+```
 
 
 
